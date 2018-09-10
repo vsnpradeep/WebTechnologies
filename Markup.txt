@@ -1,0 +1,88 @@
+HTML is a markup language which is used to develop/create webpages.
+
+HTML is used to create the content and the structure of the document.
+
+HTML is used to provide markup instructions to the web browser as how to display/format/process/render the content while displaying the webpage.
+
+
+HTML Document =  Content (Information) + Markup Code
+
+	            Text                    Text
+
+In HTML we will markup the text/content by labelling with markup indicators which are called as Tags.
+
+Using HTML we will label some parts of the text inside the document using some markup indicators which are called tags.
+
+HTML Tag : A tag is a hidden keyword which provides instructions to the web browser as how to display/format/process/render the content while displaying the webpage.
+
+A tag is enclosed in angular brackets (< and > symbols)
+
+<tag>
+
+Examples :
+
+<html>
+<title>
+<head>
+<body>
+<p>
+<img>
+<table>
+<form>
+<br>
+<hr>
+<a>
+
+
+Tags are the markup part of HTML
+
+Most of the tags in HTML comes in pairs :
+
+1. An opening tag which will mark the beginning of instruction. It tells the starting point.
+
+2. A closing tags which marks the end of the instructing. It tells the finishing point.
+
+A closing tag is same as opening tag but it contains a "/" (forward slash) which immediately follows after "<"
+
+<html>Content..............</html>
+<title>...........</title>
+<p>.........</p>
+<a>.........</a>
+<h1>...........</h1>
+
+
+Some tags will not have closing tags. These are called as Empty tags
+
+
+<br> line break
+
+This is a some text 
+which tells about the internet.
+
+
+<hr> horizontal rule
+<img>
+<link>
+<input>
+<meta>
+<base>
+<frame>
+<embed>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
